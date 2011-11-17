@@ -9,7 +9,7 @@
 */
 
 $patterns = array(
-	'#\.old$#i',
+	'#\Wold$#i',
 	'#[\-\.]orig$#',
 	'#~$#',
 	'#^.DS_Store$#',
